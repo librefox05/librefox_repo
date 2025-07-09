@@ -13,7 +13,7 @@ Server = https://github.com/librefox05/$repo/raw/refs/heads/main/$arch
 
 then run
 ```
-sudo pacman -Syy firefox-stable-bin
+sudo pacman -Syy librefox
 ```
 
 
